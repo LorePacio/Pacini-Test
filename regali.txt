@@ -2,3 +2,4 @@ cuffie;
 telefono;
 scarpe;
 calzino;
+Cappello;
