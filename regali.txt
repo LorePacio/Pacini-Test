@@ -1,0 +1,2 @@
+cuffie;
+telefono;
